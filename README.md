@@ -1,4 +1,4 @@
-# BACKEND FULL COURSE - Node.JS Express.JS Prisma PostgreSQL & Docker
+# Todo App - Node.JS Express.JS Prisma PostgreSQL & Docker
 
 This guide provides an overview of the codebase, the functionality of the app, and detailed instructions on how to set up and run the app. Make sure to follow all steps carefully, especially regarding Node.js version requirements.
 
@@ -141,4 +141,4 @@ The `todo-app.rest` file includes requests for:
 
 ## Conclusion
 
-This guide covers the main components of the app and how to get it up and running on your local machine. It highlights key considerations for Node.js version compatibility and provides a ready-to-use `todo-app.rest` file for testing. You can now explore the app's functionality, including authentication and CRUD operations on todos!
+This project covers the main components of the app and how to get it up and running on your local machine. It highlights key considerations for Node.js version compatibility and provides a ready-to-use `todo-app.rest` file for testing. You can now explore the app's functionality, including authentication and CRUD operations on todos!
